@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ViktorOlytskyi
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Python, HTML, CSS, JS
-- 💞️ I’m looking to collaborate on backend programing team
+- 💞️ I’m looking to collaborate on Python backend programing team
 - 📫 How to reach me (veglasmamona@gmail.com)
 
 <!---
